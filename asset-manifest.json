@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stormlightReactApp/static/css/main.50365705.css",
+    "main.js": "/stormlightReactApp/static/js/main.76bbd08e.js",
+    "static/js/453.bf636923.chunk.js": "/stormlightReactApp/static/js/453.bf636923.chunk.js",
+    "index.html": "/stormlightReactApp/index.html",
+    "main.50365705.css.map": "/stormlightReactApp/static/css/main.50365705.css.map",
+    "main.76bbd08e.js.map": "/stormlightReactApp/static/js/main.76bbd08e.js.map",
+    "453.bf636923.chunk.js.map": "/stormlightReactApp/static/js/453.bf636923.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50365705.css",
+    "static/js/main.76bbd08e.js"
+  ]
+}
